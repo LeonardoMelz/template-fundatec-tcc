@@ -2,7 +2,7 @@
 
 ### [Diagram de Caso de Uso ... Funcioanalidades](diagrama_caso_uso.png)
 
-![Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/UML_Use_Case_diagram.svg/513px-UML_Use_Case_diagram.svg.png)
+![Diagram](diagrama_caso_uso.png)
 
 ### [Diagrama de Fluxo de Dados ou Diagrama de Atividades](https://diariouml.files.wordpress.com/2014/04/modelagem_4.jpg)
 
